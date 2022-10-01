@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitDemoPi22Application {
 
     public static void main(String[] args) {
+        System.out.println("Evo aplikacije!");
         SpringApplication.run(GitDemoPi22Application.class, args);
     }
 
